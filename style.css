@@ -22,8 +22,8 @@ a{
      /* margin-left: 100px; */
     display: grid;
     place-items: center;
-    box-shadow: 12px 12px 20px #6b5f6b,
-                -12px -12px 20px #959294;
+    /* box-shadow: 12px 12px 20px #6b5f6b,
+                -12px -12px 20px #959294; */
 }
 
 
@@ -36,6 +36,7 @@ a{
     /* margin: 10px 10px; */
     padding: 20px;
     box-shadow: 0 0 30px #000000;
+    background-color: #fff;
 }
 
 
